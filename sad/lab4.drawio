@@ -1,0 +1,109 @@
+<mxfile host="app.diagrams.net" modified="2023-09-13T07:12:00.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="BBIgnn0NSP3HoJhjVS84" version="21.7.2" type="device">
+  <diagram name="Page-1" id="OB_mULN0DwBr1adF9kgP">
+    <mxGraphModel dx="880" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Dx5UV8OLndOZeUWiWLdx-1" target="Dx5UV8OLndOZeUWiWLdx-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="130" />
+              <mxPoint x="180" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-1" value="ATM Machine" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="30" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Dx5UV8OLndOZeUWiWLdx-2" target="Dx5UV8OLndOZeUWiWLdx-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-2" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-8" value="Inserts card" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="48" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-10" value="Receives money" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="128" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-15" value="fig: logical DFD of cash encheque in ATM machine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="269" y="168" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dx5UV8OLndOZeUWiWLdx-18" target="Dx5UV8OLndOZeUWiWLdx-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="360" />
+              <mxPoint x="180" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Dx5UV8OLndOZeUWiWLdx-18" target="Dx5UV8OLndOZeUWiWLdx-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-18" value="ATM Machine" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Dx5UV8OLndOZeUWiWLdx-20" target="Dx5UV8OLndOZeUWiWLdx-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dx5UV8OLndOZeUWiWLdx-20" target="Dx5UV8OLndOZeUWiWLdx-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="80" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="477" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-20" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.567;entryY=0.988;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Dx5UV8OLndOZeUWiWLdx-22" target="Dx5UV8OLndOZeUWiWLdx-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-22" value="Database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-23" value="Inserts card" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="278" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-24" value="Receives money" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="215" y="358" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-25" value="checks user bank balance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="270" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-26" value="Verifies user bank balance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="340" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-27" value="fig: physical DFD of cash encheque in ATM machine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="264" y="600" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dx5UV8OLndOZeUWiWLdx-28" target="Dx5UV8OLndOZeUWiWLdx-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dx5UV8OLndOZeUWiWLdx-28" target="Dx5UV8OLndOZeUWiWLdx-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-28" value="User &lt;br&gt;Verification" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-30" value="Enters pin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="480" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-33" value="Verifies pin number" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-35" value="Rejects User if pin is incorrect" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="180" y="428" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
