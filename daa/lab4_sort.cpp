@@ -45,7 +45,7 @@ void insertionSort(int arr[], int n) {
     int curr = arr[i];
     int j=i;
     while(j-- && arr[j]>curr) {
-      
+        
     }
   }
 }
@@ -53,6 +53,7 @@ void insertionSort(int arr[], int n) {
 int main()
 {
   int arr[100], n;
+  cout<<"Program by: Binamra Khadka"<<endl;
   cout << "Enter the number of elements: ";
   cin >> n;
   cout << "Enter the elements: ";
@@ -60,10 +61,13 @@ int main()
     cin >> arr[i];
 
   bubbleSort(arr, n);
-  cout<<"Bubble sort took: " << countBubble <<" comparisons"<<endl;
+  cout<<"Bubble sort took: " << countBubble<<endl;
 
   selectionSort(arr,n);
-  cout<<"Selection sort took: " << countSelection<<" comparisons"<<endl;
+  cout<<"Selection sort took: " << countSelection<<endl;
+
+  selectionSort(arr,n);
+  cout<<"Insertion sort took: " <<5<<endl;
 
   return 0;
 }

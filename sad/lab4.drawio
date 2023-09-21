@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T07:12:00.087Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="BBIgnn0NSP3HoJhjVS84" version="21.7.2" type="device">
+<mxfile host="app.diagrams.net" modified="2023-09-13T07:26:51.041Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="9MVx4WGITHyIzRJYLU4D" version="21.7.2" type="device">
   <diagram name="Page-1" id="OB_mULN0DwBr1adF9kgP">
     <mxGraphModel dx="880" dy="456" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
           <mxGeometry x="470" y="340" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dx5UV8OLndOZeUWiWLdx-27" value="fig: physical DFD of cash encheque in ATM machine" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="264" y="600" width="300" height="30" as="geometry" />
+          <mxGeometry x="264" y="555" width="300" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Dx5UV8OLndOZeUWiWLdx-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dx5UV8OLndOZeUWiWLdx-28" target="Dx5UV8OLndOZeUWiWLdx-18">
           <mxGeometry relative="1" as="geometry" />
@@ -102,6 +102,33 @@
         </mxCell>
         <mxCell id="Dx5UV8OLndOZeUWiWLdx-35" value="Rejects User if pin is incorrect" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="428" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dx5UV8OLndOZeUWiWLdx-37" target="Dx5UV8OLndOZeUWiWLdx-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="1400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="1410" />
+              <mxPoint x="170" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-37" value="Airplane ticket booking system" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1240" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dx5UV8OLndOZeUWiWLdx-38" target="Dx5UV8OLndOZeUWiWLdx-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-38" value="Customer" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1265" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-40" value="Selects seats" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1265" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-42" value="Reserves the selected seats for the user" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1380" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dx5UV8OLndOZeUWiWLdx-43" value="fig: logical dfd for airplane ticket booking system" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1438" width="280" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
